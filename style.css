@@ -1,0 +1,71 @@
+body{
+    font-family: 'Poppins', ;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    border-image-width: 50%;
+}
+section{
+    height: 500px;
+    padding-bottom: 2px;
+}
+.biography-baner{
+    background-image: url(images/biography-bg.png);
+    padding-bottom: 20px;
+
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+}
+.highlight{
+    color: rgba(247, 65, 135, 0.952);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(80deg, rgba(247, 65, 135, 0.952), rgb(241, 76, 192));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.quarter-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;   
+}
+.quarter-width img{
+    width: 100%;
+}
+.fotter{
+    background-image: url(images/footer-bg.png);
+    border-image-width: 100%;
+    text-align: center;
+    padding-bottom: 5px;
+
+}
+.mail-send{
+    background-color:  rgba(247, 65, 135, 0.952);
+    padding: 2%;
+    margin: 5px;
+    width: 50%;
+    margin-left: 23%;
+    border-radius: 5px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+.dark-ligh{
+    color: rgb(180, 174, 174);
+}
